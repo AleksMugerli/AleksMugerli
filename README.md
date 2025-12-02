@@ -18,25 +18,35 @@
 📚 ERŠ NG ->Computer sience
 </p>
 <h3> 🔭 I’m currently working on: <br>
-<a href="https://github.com/AleksMugerli/APL">AleksMugerli/APL</a>
+<a href="https://github.com/AleksMugerli/APL" target="_blank">AleksMugerli/APL</a>
  or 
-<a href="https://github.com/AleksMugerli/OPRp">AleksMugerli/OPRp</a><br>
- >AleksMugerlihttps://github.com/AleksMugerli/OPRp
-  help me if you want.
+<a href="https://github.com/AleksMugerli/OPRp" target="_blank">AleksMugerli/OPRp</a><br>
+  Help me if you can.🤔
+</h3>
+<h3> 
+You can also help me with:<br>
+
+
+
+  
 </h3>
 
 
 
-</div>
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+</div>
+<div class="d2">
+  <h4>📫 How to reach me:<br>
+    <p>Email:<br>
+    <a href="aleks.mugerli@tscng.org" target="blank">aleks.mugerli@tscng.org</a> 
+    OR 
+    <a href="amugerli123@gmail.com" target="blank">amugerli123@gmail.com</a> 
+    </p>
+  </h4>
+  <h3>⚡ Fun fact:<br>
+    You can´t beat me at volleyball.
+  </h3>
+</div>
+
   </body>
 </html>
