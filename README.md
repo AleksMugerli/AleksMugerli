@@ -20,7 +20,8 @@
 <h3> 🔭 I’m currently working on: <br>
 <a href="https://github.com/AleksMugerli/APL">AleksMugerli/APL</a>
  or 
-<a href="htps://github.com/AleksMugerli/OPRp">AleksMugerli/OPRp</a><br>
+<a href="https://github.com/AleksMugerli/OPRp">AleksMugerli/OPRp</a><br>
+ >AleksMugerlihttps://github.com/AleksMugerli/OPRp
   help me if you want.
 </h3>
 
