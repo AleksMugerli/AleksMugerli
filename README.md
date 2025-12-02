@@ -1,7 +1,13 @@
 ## Hi there 👋
+### Aleks Mugerli:
+**AleksMugerli/AleksMugerli**
+"If you don´t belive in yourshelf no one will do it for you" 
+🏐Volleyball player
+📚 ERŠ NG ->Computer sience
 
 
-**AleksMugerli/AleksMugerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
