@@ -3,12 +3,15 @@
   <head>
     <meta charset="UFC-8">
     <title>AleksMugerli/AleksMugerli</title>
+    <link rel="stylesheet" href="style.css">
   </head>
 
 <body>
-## Hi there 👋
-### Aleks Mugerli:
 <div class="d1">
+ <h1> 
+  Hi there 👋
+  Aleks Mugerli:
+  </h1>
 <p>"If you don´t belive in yourshelf no one will do it for you"</p>
 🏐Volleyball player
 📚 ERŠ NG ->Computer sience
