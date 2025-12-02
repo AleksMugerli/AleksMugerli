@@ -13,10 +13,16 @@
   I´m Aleks Mugerli
   </h1>
   <h5>if(busy){ on ☕ ||  playing 🏐} else{ learning Java }</h5>
-<p>"If you don´t belive in yourshelf no one will do it for you"</p>
-🏐Volleyball player
+<p>"If you don´t belive in yourshelf no one will do it for you"<br>
+🏐Volleyball player<br>
 📚 ERŠ NG ->Computer sience
-
+</p>
+<h3> 🔭 I’m currently working on: <br>
+<a href="https://github.com/AleksMugerli/APL">AleksMugerli/APL</a>
+ or 
+<a href="htps://github.com/AleksMugerli/OPRp">AleksMugerli/OPRp</a><br>
+  help me if you want.
+</h3>
 
 
 
