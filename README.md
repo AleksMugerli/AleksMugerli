@@ -9,9 +9,10 @@
 <body>
 <div class="d1">
  <h1> 
-  Hi there 👋
-  Aleks Mugerli:
+  Hi there 👋<br>
+  I´m Aleks Mugerli
   </h1>
+  <h5>if(busy){ on ☕ ||  playing 🏐} else{ learning Java }</h5>
 <p>"If you don´t belive in yourshelf no one will do it for you"</p>
 🏐Volleyball player
 📚 ERŠ NG ->Computer sience
