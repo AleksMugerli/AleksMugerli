@@ -2,7 +2,7 @@
 <html lang="sl-SI">
   <head>
     <meta charset="UFC-8">
-    <title>**AleksMugerli/AleksMugerli**</title>
+    <title>AleksMugerli/AleksMugerli</title>
   </head>
 
 <body>
