@@ -25,15 +25,10 @@
 <h3> 
 You can also help me with:<br>
 
-
-
-  
 </h3>
 
-
-
-
 </div>
+
 <div class="d2">
   <h4>📫 How to reach me:<br>
     <p>Email:<br>
@@ -43,7 +38,7 @@ You can also help me with:<br>
     </p>
   </h4>
   <h3>⚡ Fun fact:<br>
-    You can´t beat me at volleyball.
+    You can´t beat me at volleyball.😎😉
   </h3>
 </div>
 
