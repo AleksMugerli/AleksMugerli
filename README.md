@@ -2,7 +2,6 @@
 <html lang="sl-SI">
   <head>
     <meta charset="UFC-8">
-    <title>AleksMugerli/AleksMugerli</title>
     <link rel="stylesheet" href="style.css">
   </head>
 
