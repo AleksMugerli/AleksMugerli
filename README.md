@@ -24,7 +24,7 @@
  Help me if you can.🤔
 </h3>
 <h3> 
-You can also help me with:<br>
+<!--You can also help me with:<br>-->
 
 </h3>
 
