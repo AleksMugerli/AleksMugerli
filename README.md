@@ -13,7 +13,7 @@
   </h1>
   <h3>if(busy){ on ☕ ||  playing 🏐} else{ learning Java }</h3>
 <p>
-🗣️"If you don´t belive in yourshelf no one will do it for you"<br>
+🗣️"If you don´t belive in yourself no one will do it for you"<br>
 🏐Volleyball player<br>
 📚 ERŠ NG ->Computer sience
 </p>
